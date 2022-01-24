@@ -1,0 +1,19 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+}
+caption{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+table{
+    border-spacing: 0;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    margin-bottom: 20px;
+}
+th,td{
+    border: 1px solid#aaa;
+    padding: 10px 20px;
+}
